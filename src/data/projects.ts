@@ -131,7 +131,8 @@ export const projects: Project[] = [
         value: "Dedicated ASP.NET match service for lobbies, separate from the game client",
       },
     ],
-    apkUrl: "",
+    apkUrl:
+      "https://github.com/fayzirahmonfaya/portfolio/releases/download/wayblock-v0.1.0/WayBlock.apk",
   },
   {
     slug: "oddly-notes",
@@ -240,6 +241,7 @@ export const projects: Project[] = [
         value: "Cloud AI processing is off by default and user-controlled, with honest on-device fallback",
       },
     ],
-    apkUrl: "",
+    apkUrl:
+      "https://github.com/fayzirahmonfaya/portfolio/releases/download/oddlynotes-v1.0.0/OddlyNotes.apk",
   },
 ];
